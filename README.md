@@ -23,7 +23,7 @@ The goal is to **analyze average-case performance** by counting the number of co
 
 ---
 
-## Report Preview
+## Results
 Click below to view the results: 
 
-[View the results](Results.pdf)
+[View the results](results.pdf)
